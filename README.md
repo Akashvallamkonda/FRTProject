@@ -33,9 +33,3 @@ A recipe book project is a creative journey that combines culinary expertise, wr
 
 
 
- 
-![Screenshot 2023-11-16 232322](https://github.com/Akashvallamkonda/Frt-project1/assets/142730770/4c0a3e0a-6969-451e-ac6f-154961dcacaf)
-
-![Screenshot 2023-11-16 232507](https://github.com/Akashvallamkonda/Frt-project1/assets/142730770/f18fa84e-bf99-48aa-a553-8a46fe6043b3)
-
-![Screenshot 2023-11-16 232447](https://github.com/Akashvallamkonda/Frt-project1/assets/142730770/8bb12e4c-d046-4022-a22a-a86bfa7fc436)
