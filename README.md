@@ -1,6 +1,7 @@
 # FRTProject
 
 azure link https://recipesbookq.z19.web.core.windows.net/
+here  we develop a blog about a recipes .so we place several recipes data .so we think does not need any search bar .
 
 A recipe book project is an organized effort to compile a collection of recipes into a cohesive and engaging publication. It can be centered around a specific theme, cuisine, or cooking style.
 
