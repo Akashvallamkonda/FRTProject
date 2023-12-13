@@ -10,7 +10,10 @@ Each recipe is a gateway to a world of possibilities, encouraging you to experim
 ![Screenshot 2023-12-13 081422](https://github.com/Akashvallamkonda/FRTProject/assets/142730770/c4e0d284-b0e0-4b04-8397-ac34afd1da00)
 
 
-Whether you're hosting a gathering, planning a special dinner, or simply looking for weekday inspiration, our webpage is a treasure trove of culinary delights. Join our community of food enthusiasts, share your kitchen adventures, and let the pages of our recipes book be the starting point for your culinary exploration. Get ready to embark on a delicious journey where every page turns into a delightful experience, transforming your kitchen into a place of creativity, joy, and, of course, incredible flavors."
+Whether you're hosting a gathering, planning a special dinner, or simply looking for weekday inspiration, our webpage is a treasure trove of culinary delights. Join our community of food enthusiasts, share your kitchen adventures, and let the pages of our recipes book be the starting point for your culinary exploration.
+![Screenshot 2023-12-13 110443](https://github.com/Akashvallamkonda/FRTProject/assets/142730770/646ec174-096d-4101-9867-b2a755d4c891)
+
+Get ready to embark on a delicious journey where every page turns into a delightful experience, transforming your kitchen into a place of creativity, joy, and, of course, incredible flavors."
 
 
 
