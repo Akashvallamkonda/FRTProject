@@ -4,6 +4,7 @@ azure link https://recipesbookq.z19.web.core.windows.net/
 here  we develop a blog about a recipes .so we place several recipes data .so we think does not need any search bar .
 
 A recipe book project is an organized effort to compile a collection of recipes into a cohesive and engaging publication. It can be centered around a specific theme, cuisine, or cooking style.
+![Screenshot 2023-12-13 081356](https://github.com/Akashvallamkonda/FRTProject/assets/142730770/53627980-cb49-4475-bcfe-64f400e46c9e)
 
 Recipe Selection: Curating a diverse and well-rounded selection of recipes is crucial. This involves testing and refining each recipe for accuracy and taste.
 Variety and Uniqueness: To stand out, the recipe book should offer a variety of dishes, and consider adding unique twists or personal touches to make the content distinctive.
