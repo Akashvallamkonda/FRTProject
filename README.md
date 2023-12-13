@@ -15,7 +15,7 @@ Categorization: Recipes are organized logically into categories such as appetize
 Flow: Planning the flow of the book ensures a coherent structure, guiding readers through the culinary experience in a seamless manner.
 
 
-!
+![Screenshot 2023-12-13 081422](https://github.com/Akashvallamkonda/FRTProject/assets/142730770/c4e0d284-b0e0-4b04-8397-ac34afd1da00)
 
 
 Recipe Format: Clear and concise recipe writing is essential. This includes standardized formats with ingredients, step-by-step instructions, and additional tips or variations.
